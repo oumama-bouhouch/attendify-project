@@ -34,4 +34,4 @@ Contributed to the application development, prototype design and project integra
 
 **Industrial Integrator Project — Universiapolis Agadir**
 
-**Theme:** Attendance Marker
+**Theme :** Attendance Marker
